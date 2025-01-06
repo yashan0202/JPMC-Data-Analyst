@@ -1,5 +1,5 @@
 # JPMC-Data-Analyst
-Global Finance and Business Management
+<h2>Global Finance and Business Management</h2>
 
 <h3><ol>
   <li>Completed a jo simulation focused on the GFBM internship program at JPMorgan
